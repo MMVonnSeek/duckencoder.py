@@ -31,3 +31,8 @@ Usage
        -p, --pastthru	    Read script from stdin and print result on stdout (ignore -i, -o)
        -r, --rawpassthru    Like passthru, but input is read as STRING instead of duckyscript
        -h			        Print this help screen
+
+
+
+<sub>Optional (if you can follow me and leave a star in the repository)  ⭐
+Thank you
